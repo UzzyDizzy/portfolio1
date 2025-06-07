@@ -22,8 +22,8 @@ export const projects: Project[] = [
         title: 'Portfolio Website',
         description: 'My personal portfolio website showcasing my projects and skills.',
         technologies: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-        githubLink: 'https://github.com',
+        githubLink: 'https://github.com/UzzyDizzy/portfolio1',
         demoLink: 'https://demo.com',
-        image: '/projects/portfolio-website.jpg',
+        image: '/projects/portfolio1.png',
       },
   ];
